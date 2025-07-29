@@ -1,12 +1,19 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 💫 About Me:
+🔭 I’m currently working on some lame projects you can find it somewhere below<br>👯 I’m looking to collaborate on anything<br>🤝 I’m looking for help with a stickman kombat<br>🌱 I’m currently learning nothing...<br>💬 Ask me about.. don't ask!!<br>⚡ Fun fact i play games..!? & watch anime also !!!
 
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=solofardeen&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=solofardeen&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=solofardeen&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solofardeen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=solofardeen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=solofardeen&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=solofardeen&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/5e/a1/bf/5ea1bf8c3f2072888c985e8dc03dd768.gif"  />
