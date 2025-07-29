@@ -19,7 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-![image alt](https://i.pinimg.com/originals/5e/a1/bf/5ea1bf8c3f2072888c985e8dc03dd768.gif)
 [![](https://visitcount.itsvg.in/api?id=solofardeen&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Some skills known by me
@@ -49,10 +48,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/solofardeen/solofardeen/output/snake.svg" alt="Snake animation" />
-
-###
+![image alt](https://i.pinimg.com/originals/5e/a1/bf/5ea1bf8c3f2072888c985e8dc03dd768.gif)
 
   
