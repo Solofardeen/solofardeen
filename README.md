@@ -1,6 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on some lame projects you can find it somewhere below<br>👯 I’m looking to collaborate on anything<br>🤝 I’m looking for help with a stickman kombat<br>🌱 I’m currently learning nothing...<br>💬 Ask me about.. don't ask!!<br>⚡ Fun fact i play games..!? & watch anime also !!!
+🔭 I’m currently working on some lame projects you can find it somewhere below<br>👯 I’m looking to collaborate on anything<br>🤝 I’m looking for help with a stickman kombat<br>🌱 I’m currently learning nothing...<br>💬 Ask me about.. don't ask!!<br>⚡ Fun fact i play games..!? & watch anime also !!
 
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/solofardeen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/solofardeen) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/solofardeen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/solofardeen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://x.com/solofardeen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fardeen070205@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=solofardeen&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=solofardeen&theme=highcontrast&hide_border=true)<br/>
@@ -14,9 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=solofardeen&icon=0&color=0)](https://visitcount.itsvg.in)
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/5e/a1/bf/5ea1bf8c3f2072888c985e8dc03dd768.gif"  />
 
 ### Some skills known by me
 
@@ -42,28 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-### Contact me
-
-<div align="center">
-  <a href="https://www.instagram.com/solofardeen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@solofardeen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="fardeen070205@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/solofardeen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/solofardeen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.t.me/solofardeen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
 
 ###
 
