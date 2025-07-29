@@ -21,6 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=solofardeen&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![image alt](https://easydrawingguides.com/wp-content/uploads/2024/05/how-to-draw-zoro-from-one-piece-featured-image-1200.png)
 ### Some skills known by me
 
 <div align="left">
@@ -47,7 +48,7 @@
 
 
 ###
-![image alt](https://easydrawingguides.com/wp-content/uploads/2024/05/how-to-draw-zoro-from-one-piece-featured-image-1200.png)
+
 ![image alt](https://i.pinimg.com/originals/5e/a1/bf/5ea1bf8c3f2072888c985e8dc03dd768.gif)
 
   
