@@ -18,7 +18,7 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/5e/a1/bf/5ea1bf8c3f2072888c985e8dc03dd768.gif"  />
 
-###
+### Some skills known by me
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-###
+### Contact me
 
 <div align="center">
   <a href="https://www.instagram.com/solofardeen" target="_blank">
